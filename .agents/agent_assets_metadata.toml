@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "K5rlWvvNWB6sltdzJrxkx"
+uri = "file://FairLoanAI.zip"
+type = "unspecified"
+title = "FairLoanAI - Streamlit App"
