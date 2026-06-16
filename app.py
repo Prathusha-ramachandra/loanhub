@@ -16,7 +16,7 @@ Run:
     streamlit run app.py
 """
 
-import streamlit as st
+import streamlit as st  # type: ignore[import]
 
 # ── Page Configuration ────────────────────────────────────────────────────────
 # Must be the FIRST Streamlit call in the script
